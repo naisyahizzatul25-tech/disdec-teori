@@ -1,10 +1,11 @@
 
 # Materi Minggu 1: Pengenalan Sistem Terdistribusi dan Terdesentralisasi
-**Nama:** Naisyah IzzatuL Jannah K
-**NIM:** 255410040
-**Mata kuliah:** Sistem Terdistribusi dan Terdesentralisasi (FIF25002T, 3 SKS)
-**Prodi:** Informatika, Fakultas Teknologi Informasi, UTDI
-**Dosen:** Dr. Bambang Purnomosidi D. P.
+### Identitas Mahasiswa
+* **Nama:** Naisyah Izzatul Jannah K.
+* **NIM:** 255410040
+* **Prodi:** Informatika, Fakultas Teknologi Informasi, UTDI
+* **Mata kuliah:** Sistem Terdistribusi dan Terdesentralisasi (FIF25002T, 3 SKS)
+* **Dosen:** Dr. Bambang Purnomosidi D. P.
 
 ---
 
@@ -13,7 +14,7 @@
 **AI yang digunakan:** Claude (Anthropic), model Claude Sonnet 5.5
 
 **Prompt:**
-> Saya mengunggah slide "Pengenalan Sistem Terdistribusi dan Terdesentralisasi" (PDF). Buatkan rangkuman materi sesuai dengan agenda pembahasan dalam format markdown (README.md) untuk dikumpulkan ke GitHub, lengkap dengan format pernyataan penggunaan AI.
+> Dari file PDF tersebut buatkan rangkuman materi GitHub, lengkap dengan format pernyataan penggunaan AI.
 
 **Bagian yang disesuaikan dari keluaran prompt ada pada:**
 > _(ISI SENDIRI: tuliskan bagian yang Anda edit, misalnya "Saya menambahkan contoh sehari-hari pada bagian Diskusi, mengubah tabel perbandingan, dan memperbaiki istilah pada bagian CAP Theorem". Jika tidak ada yang diubah, tulis "tidak ada".)_
