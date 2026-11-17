@@ -1,4 +1,4 @@
-# Materi Minggu 5: Fault Tolerance pada Sistem Terdistribusi
+# Materi Minggu 4: Konsistensi dan Replikasi pada Sistem Terdistribusi
 
 ### Identitas Mahasiswa
 * **Nama:** Naisyah Izzatul Jannah K.
