@@ -14,20 +14,12 @@
 **AI yang digunakan:** Claude (Anthropic), model Claude Sonnet 5.5
 
 **Prompt:**
-> Dari file PDF tersebut buatkan rangkuman materi GitHub, lengkap dengan format pernyataan penggunaan AI.
+> Dari file PDF tersebut buatkan rangkuman materi dalam format markdown untuk README.md.
 
 **Bagian yang disesuaikan dari keluaran prompt ada pada:**
-> _(ISI SENDIRI: tuliskan bagian yang Anda edit, misalnya "Saya menambahkan contoh sehari-hari pada bagian Diskusi, mengubah tabel perbandingan, dan memperbaiki istilah pada bagian CAP Theorem". Jika tidak ada yang diubah, tulis "tidak ada".)_
+> _(Yang diubah hanya menghapus bagian tujuan, diskusi, dan ringkasan saja)_
 
 ---
-
-## Tujuan Pembelajaran
-
-- Menjelaskan konsep sistem terdistribusi
-- Menjelaskan konsep sistem terdesentralisasi
-- Menjelaskan perbedaan sistem terdistribusi dan terdesentralisasi
-- Menyebutkan contoh penerapan nyata keduanya
-- Menyebutkan tantangan dan tren terbaru
 
 ## Daftar Isi
 
@@ -43,9 +35,6 @@
 10. [Konsistensi Data](#10-konsistensi-data)
 11. [Tantangan](#11-tantangan)
 12. [Tren Masa Depan](#12-tren-masa-depan)
-13. [Ringkasan](#13-ringkasan)
-14. [Diskusi](#14-diskusi)
-
 ---
 
 ## 1. Arti Penting Sistem Terdistribusi dan Terdesentralisasi
@@ -172,18 +161,6 @@ Disebut juga **Brewer's Theorem** (Eric Brewer, tahun 2000).
 - **Edge dan Fog Computing**.
 - **Web3 dan DeFi**.
 - **Federated Learning** (AI terdistribusi).
-
-## 13. Ringkasan
-
-- Sistem terdistribusi = **berbagi beban kerja**.
-- Sistem terdesentralisasi = **berbagi kontrol**.
-- Keduanya saling terkait tetapi berbeda fokus.
-- Keduanya menjadi fondasi teknologi modern.
-
-## 14. Diskusi
-
-1. Mengapa dunia semakin bergerak menuju distribusi dan desentralisasi?
-2. Contoh sehari-hari yang paling terasa bagi saya: _(ISI SENDIRI dengan pendapat/contoh Anda, misalnya streaming video, transfer uang, atau aplikasi chat)_.
 
 ---
 
