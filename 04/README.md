@@ -11,7 +11,7 @@
 
 AI yang digunakan: Claude (Anthropic), model Claude Sonnet 5.5
 
-Prompt: "Buatkan rangkuman materi dari file PDF slide kuliah 'Konsistensi dan Replikasi pada Sistem Terdistribusi' sesuai urutan agenda pembahasan, dalam format markdown untuk README.md." *(ganti dengan prompt yang benar-benar Anda tulis)*
+Prompt: "Buatkan rangkuman ambil yang penting penting saja dari materi pada file PDF tersebut dalam format markdown untuk README.md. git hub saya"
 
 Bagian yang disesuaikan dari keluaran prompt ada pada: Tidak ada 
 
