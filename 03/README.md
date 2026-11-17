@@ -1,23 +1,22 @@
 
 # Materi Minggu 3: Sinkronisasi dan Koordinasi pada Sistem Terdistribusi
-
+### Identitas Mahasiswa
+* **Nama:** Naisyah Izzatul Jannah K.
+* **NIM:** 255410040
+* **Prodi:** Informatika, Fakultas Teknologi Informasi, UTDI
+* **Mata kuliah:** Sistem Terdistribusi dan Terdesentralisasi (FIF25002T, 3 SKS)
+* **Dosen:** Dr. Bambang Purnomosidi D. P.
+  
+---
 AI yang digunakan: Claude (Anthropic), model Claude Sonnet 5.5
 
-Prompt: "Buatkan rangkuman materi dari file PDF slide kuliah 'Sinkronisasi dan Koordinasi pada Sistem Terdistribusi' sesuai urutan agenda pembahasan, dalam format markdown untuk README.md." *(ganti dengan prompt yang benar-benar Anda tulis)*
+Prompt: "Buatkan rangkuman ambil yang penting penting saja dari materi pada file PDF tersebut dalam format markdown untuk README.md. git hub saya"
 
-Bagian yang disesuaikan dari keluaran prompt ada pada: *(isi sendiri)*
+Bagian yang disesuaikan dari keluaran prompt ada pada: 
 
 ---
 
 # Sinkronisasi dan Koordinasi pada Sistem Terdistribusi
-
-## Tujuan Pembelajaran
-
-- Menjelaskan mengapa sinkronisasi diperlukan untuk koordinasi dan tantangannya.
-- Menjelaskan sinkronisasi waktu fisik beserta algoritma dan protokolnya.
-- Menjelaskan sinkronisasi waktu logis.
-- Menjelaskan masalah mutual exclusion dan algoritmanya.
-- Menjelaskan pemilihan koordinator dan contoh kasus industri.
 
 ## 1. Apa Itu Sinkronisasi?
 
