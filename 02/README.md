@@ -1,21 +1,22 @@
-Materi Minggu 2: Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
-
+# Materi Minggu 2: Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
+### Identitas Mahasiswa
+* **Nama:** Naisyah Izzatul Jannah K.
+* **NIM:** 255410040
+* **Prodi:** Informatika, Fakultas Teknologi Informasi, UTDI
+* **Mata kuliah:** Sistem Terdistribusi dan Terdesentralisasi (FIF25002T, 3 SKS)
+* **Dosen:** Dr. Bambang Purnomosidi D. P.
+  
+---
 AI yang digunakan: Claude (Anthropic), model Claude Sonnet 5.5
 
-Prompt: "Buatkan rangkuman materi dari file PDF slide kuliah 'Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi' sesuai urutan agenda pembahasan, dalam format markdown untuk README.md." *(ganti dengan prompt yang benar-benar Anda tulis)*
+Prompt: "Buatkan rangkuman ambil yang penting penting saja dari materi pada file PDF tersebut dalam format markdown untuk README.md. git hub saya"
 
-Bagian yang disesuaikan dari keluaran prompt ada pada: *(isi sendiri)*
+Bagian yang disesuaikan dari keluaran prompt ada pada: Tidak ada 
 
 ---
 
 # Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
 
-## Tujuan Pembelajaran
-
-- Menjelaskan konsep proses pada sistem terdistribusi.
-- Menjelaskan berbagai jenis komunikasi antar proses (IPC).
-- Menganalisis isu sinkronisasi, reliabilitas, dan keamanan.
-- Mengaitkan konsep dengan contoh nyata: microservices, cloud, distributed messaging.
 
 ## 1. Apa Itu Proses?
 
@@ -151,9 +152,3 @@ Contoh: Apache ZooKeeper, etcd, Consul, ClickHouse Keeper, Oxia, KRaft.
 - Edge dan Fog Computing
 - Observability dan tracing (telemetry)
 - Container orchestration: Kubernetes, Docker Swarm
-
-## 15. Diskusi
-
-1. Apakah GraphQL merupakan contoh RPC?
-2. Apakah REST merupakan contoh RPC?
-3. Apakah telemetry merupakan solusi etis?
