@@ -19,12 +19,6 @@ Bagian yang disesuaikan dari keluaran prompt ada pada: Tidak ada
 
 # Konsistensi dan Replikasi pada Sistem Terdistribusi
 
-## Tujuan Pembelajaran
-
-- Menjelaskan konsep dan model konsistensi.
-- Menjelaskan konsep replikasi data serta protokol dan strateginya.
-- Menganalisis studi kasus replikasi pada sistem nyata.
-
 ## 1. Apa Itu Konsistensi?
 
 Menjamin semua node memiliki data yang sama atau tampak sama pada waktu tertentu, meskipun data berada di banyak tempat dan bisa diubah bersamaan. Jika data diubah di satu server, server lain akhirnya harus punya data yang sama.
